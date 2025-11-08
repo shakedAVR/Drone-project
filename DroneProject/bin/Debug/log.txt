@@ -1,0 +1,775 @@
+13/05/2025 12:24:19: the database S1was succsecfully created   Database created
+13/05/2025 12:24:21: the Table S1was succsecfully createdTable created
+13/05/2025 12:25:28: the database S1was already create Database Exists
+13/05/2025 12:25:29: the table S2was already createdtable Exists
+13/05/2025 12:26:24: the database SS4was succsecfully created   Database created
+13/05/2025 12:26:25: the Table S5was succsecfully createdTable created
+13/05/2025 13:53:19: the Db selectedSystem.Windows.Forms.Label, Text: SS4the table selectedSystem.Windows.Forms.Label, Text: S5
+13/05/2025 13:53:28: the Db selectedSystem.Windows.Forms.Label, Text: S1the table selectedSystem.Windows.Forms.Label, Text: S2
+13/05/2025 13:53:59: the Db selectedSystem.Windows.Forms.Label, Text: s1the table selectedSystem.Windows.Forms.Label, Text: s2
+13/05/2025 13:55:16: the Db selectedSystem.Windows.Forms.Label, Text: S1the table selectedSystem.Windows.Forms.Label, Text: S2
+13/05/2025 13:56:13: the Db selectedS1the table selectedS2
+13/05/2025 13:56:50:  the Db selected S1 the table selected S2
+13/05/2025 13:57:31:  the Db selected s1 the table selected s2
+13/05/2025 13:57:35:  the Db selected S1 the table selected S2
+14/05/2025 14:04:14:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:04:14:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:04:18:  the Db selected: s1 the table selected: s2
+14/05/2025 14:10:47:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:35:17:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:35:26: Data uploaded successfully. DR001 DB: SS4
+14/05/2025 14:35:26: Data uploaded successfully. DR002 DB: SS4
+14/05/2025 14:35:26: Data uploaded successfully. DR003 DB: SS4
+14/05/2025 14:35:26: Data uploaded successfully. DR004 DB: SS4
+14/05/2025 14:35:26: Data uploaded successfully. DR005 DB: SS4
+14/05/2025 14:36:46: Data was successfully exchanged.. DR001
+14/05/2025 14:36:46: Data was successfully exchanged.. DR002
+14/05/2025 14:36:46: Data was successfully exchanged.. DR003
+14/05/2025 14:36:46: Data was successfully exchanged.. DR004
+14/05/2025 14:36:46: Data was successfully exchanged.. DR005
+14/05/2025 14:41:18:  the Db selected: S1 the table selected: S2
+14/05/2025 14:42:31:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:40:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:40:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:41:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:41:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:41:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:42:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:42:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:42:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:43:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:43:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:43:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:42:44:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:46:11:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:46:12:  the Db selected: S1 the table selected: S2
+14/05/2025 14:46:13:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:46:51: Drone already exists. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+DroneProject.DataStructres.BatteryDroneProject.DataStructres.BatteryCameras:
+DroneProject.DataStructres.Camera Not Succses
+14/05/2025 14:46:51: Drone already exists. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+DroneProject.DataStructres.BatteryCameras:
+DroneProject.DataStructres.CameraDroneProject.DataStructres.Camera Not Succses
+14/05/2025 14:46:51: Drone already exists. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+DroneProject.DataStructres.BatteryCameras:
+DroneProject.DataStructres.Camera Not Succses
+14/05/2025 14:46:51: Drone already exists. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+DroneProject.DataStructres.BatteryDroneProject.DataStructres.BatteryCameras:
+DroneProject.DataStructres.CameraDroneProject.DataStructres.Camera Not Succses
+14/05/2025 14:46:51: Drone already exists. Drone Information:
+ID: DR005
+Model: StormFly
+Year: 2023
+Price: 1099.99
+Batteries:
+DroneProject.DataStructres.BatteryCameras:
+DroneProject.DataStructres.CameraDroneProject.DataStructres.Camera Not Succses
+14/05/2025 14:50:29:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:50:31:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:50:50: Drone already exists. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+DroneProject.DataStructres.Battery
+DroneProject.DataStructres.Battery
+Cameras:
+DroneProject.DataStructres.Camera
+ Not Succses
+14/05/2025 14:50:50: Drone already exists. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+DroneProject.DataStructres.Battery
+Cameras:
+DroneProject.DataStructres.Camera
+DroneProject.DataStructres.Camera
+ Not Succses
+14/05/2025 14:50:50: Drone already exists. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+DroneProject.DataStructres.Battery
+Cameras:
+DroneProject.DataStructres.Camera
+ Not Succses
+14/05/2025 14:50:50: Drone already exists. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+DroneProject.DataStructres.Battery
+DroneProject.DataStructres.Battery
+Cameras:
+DroneProject.DataStructres.Camera
+DroneProject.DataStructres.Camera
+ Not Succses
+14/05/2025 14:50:50: Drone already exists. Drone Information:
+ID: DR005
+Model: StormFly
+Year: 2023
+Price: 1099.99
+Batteries:
+DroneProject.DataStructres.Battery
+Cameras:
+DroneProject.DataStructres.Camera
+DroneProject.DataStructres.Camera
+ Not Succses
+14/05/2025 14:52:37:  the Db selected: SS4 the table selected: S5
+14/05/2025 14:52:42: Drone already exists. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+ Not Succses
+14/05/2025 14:52:42: Drone already exists. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+ Not Succses
+14/05/2025 14:52:42: Drone already exists. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+ Not Succses
+14/05/2025 14:52:42: Drone already exists. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+ Not Succses
+14/05/2025 14:52:42: Drone already exists. Drone Information:
+ID: DR005
+Model: StormFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+ Not Succses
+14/05/2025 14:53:04: Data deleted successfully. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+
+14/05/2025 14:53:04: Data deleted successfully. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+
+14/05/2025 14:53:04: Data deleted successfully. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+
+14/05/2025 14:53:04: Data deleted successfully. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+
+14/05/2025 14:53:04: Data deleted successfully. Drone Information:
+ID: DR005
+Model: StormFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+
+14/05/2025 15:03:12:  the Db selected: SS4 the table selected: S5
+14/05/2025 15:57:51:  the Db selected: SS4 the table selected: S5
+19/05/2025 11:42:47: the database s1was already create Database Exists
+19/05/2025 11:42:48: the table s2was already createdtable Exists
+19/05/2025 11:42:50:  the Db selected: S1 the table selected: S2
+19/05/2025 13:42:56:  the Db selected: SS4 the table selected: S5
+19/05/2025 13:45:19:  the Db selected: SS4 the table selected: S5
+19/05/2025 13:46:57:  the Db selected: SS4 the table selected: S5
+20/05/2025 16:50:16:  the Db selected: SS4 the table selected: S5
+20/05/2025 16:52:02: Data uploaded successfully. Drone Information:
+ID: DR001
+Model: Phantom X
+Year: 2021
+Price: 1250.5
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=5000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+ DB: SS4
+20/05/2025 16:52:02: Data uploaded successfully. Drone Information:
+ID: DR002
+Model: SkyMaster 300
+Year: 2020
+Price: 980
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+ DB: SS4
+20/05/2025 16:52:02: Data uploaded successfully. Drone Information:
+ID: DR003
+Model: AeroFly 2
+Year: 2022
+Price: 1500
+No batteries in this drone.
+No cameras in this drone.
+ DB: SS4
+20/05/2025 16:52:02: Data uploaded successfully. Drone Information:
+ID: DR004
+Model: HawkEye
+Year: 2023
+Price: 1750.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=6000mAh, ChargeTime=3h
+Cameras:
+  Camera 1: Resolution=5K, FrameRate=120fps, LensType=Telephoto
+  Camera 2: Resolution=1080p, FrameRate=60fps, LensType=Wide
+ DB: SS4
+20/05/2025 16:52:02: Data uploaded successfully. Drone Information:
+ID: DR005
+Model: Falcon Z
+Year: 2019
+Price: 800.99
+Batteries:
+  Battery 1: Type=NiMH, Capacity=3000mAh, ChargeTime=4h
+Cameras:
+  Camera 1: Resolution=720p, FrameRate=30fps, LensType=Unknown
+ DB: SS4
+27/05/2025 10:11:22:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:11:32:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:14:48:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:16:28:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:16:30:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:24:19:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:26:49:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:29:47:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:31:13:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:33:25:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:35:39:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:36:25:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:46:40:  the Db selected: SS4 the table selected: S5
+27/05/2025 10:52:58:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:27:03:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:27:58:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:30:18:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:34:41:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:39:26:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:43:57:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:45:57:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:47:32:  the Db selected: SS4 the table selected: S5
+27/05/2025 11:47:52: Data uploaded successfully. Drone Information:
+ID: DR0101
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+ DB: SS4
+27/05/2025 11:47:53: Data uploaded successfully. Drone Information:
+ID: DR4002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+ DB: SS4
+27/05/2025 11:47:53: Data uploaded successfully. Drone Information:
+ID: DR0063
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+ DB: SS4
+27/05/2025 11:47:54: Data uploaded successfully. Drone Information:
+ID: DR0084
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+ DB: SS4
+27/05/2025 11:47:54: Data uploaded successfully. Drone Information:
+ID: DR9005
+Model: StormFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+ DB: SS4
+27/05/2025 11:48:16: Data was successfully exchanged.. Drone Information:
+ID: DR0101
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+
+27/05/2025 11:48:17: Data was successfully exchanged.. Drone Information:
+ID: DR4002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+
+27/05/2025 11:48:17: Data was successfully exchanged.. Drone Information:
+ID: DR0063
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+
+27/05/2025 11:48:17: Data was successfully exchanged.. Drone Information:
+ID: DR0084
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+
+27/05/2025 11:48:17: Drone does NOT exist.Drone Information:
+ID: DR34465475675879005
+Model: StormFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+
+27/05/2025 11:48:48: Data was successfully exchanged.. Drone Information:
+ID: DR0101
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+
+27/05/2025 11:48:48: Data was successfully exchanged.. Drone Information:
+ID: DR4002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+
+27/05/2025 11:48:48: Data was successfully exchanged.. Drone Information:
+ID: DR0063
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+
+27/05/2025 11:48:48: Data was successfully exchanged.. Drone Information:
+ID: DR0084
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+
+27/05/2025 11:48:48: Drone does NOT exist.Drone Information:
+ID: DR34465475675879005
+Model: StoretfhgjfgjfDFSfgsfdmFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+
+27/05/2025 11:49:05: Data deleted successfully. Drone Information:
+ID: DR0101
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+
+27/05/2025 11:49:06: Data deleted successfully. Drone Information:
+ID: DR4002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+
+27/05/2025 11:49:06: Data deleted successfully. Drone Information:
+ID: DR0063
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+
+27/05/2025 11:49:06: Data deleted successfully. Drone Information:
+ID: DR0084
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+
+27/05/2025 11:49:06: Drone does NOT exist cant deleted. Drone Information:
+ID: DR34465475675879005
+Model: StoretfhgjfgjfDFSfgsfdmFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+
+27/05/2025 11:49:25: Drone already exists. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+ Not Succses
+27/05/2025 11:49:25: Drone already exists. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+ Not Succses
+27/05/2025 11:49:25: Drone already exists. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+ Not Succses
+27/05/2025 11:49:25: Drone already exists. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+ Not Succses
+27/05/2025 11:49:26: Data uploaded successfully. Drone Information:
+ID: DR005
+Model: StormFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+ DB: SS4
+27/05/2025 11:49:57: Data was successfully exchanged.. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+
+27/05/2025 11:49:58: Data was successfully exchanged.. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+
+27/05/2025 11:49:58: Data was successfully exchanged.. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+
+27/05/2025 11:49:59: Data was successfully exchanged.. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+
+27/05/2025 11:49:59: Data was successfully exchanged.. Drone Information:
+ID: DR005
+Model: StormhelooloFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+
+27/05/2025 11:50:09: Data deleted successfully. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+
+27/05/2025 11:50:09: Data deleted successfully. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+
+27/05/2025 11:50:10: Data deleted successfully. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+
+27/05/2025 11:50:10: Data deleted successfully. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+
+27/05/2025 11:50:10: Data deleted successfully. Drone Information:
+ID: DR005
+Model: StormhelooloFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+
+27/05/2025 11:50:15: Data uploaded successfully. Drone Information:
+ID: DR001
+Model: Falcon X1
+Year: 2023
+Price: 999.99
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+  Battery 2: Type=Li-ion, Capacity=4500mAh, ChargeTime=2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+ DB: SS4
+27/05/2025 11:50:15: Data uploaded successfully. Drone Information:
+ID: DR002
+Model: SkyEye Pro
+Year: 2022
+Price: 749.5
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5000mAh, ChargeTime=1.5h
+Cameras:
+  Camera 1: Resolution=1080p, FrameRate=30fps, LensType=Standard
+  Camera 2: Resolution=720p, FrameRate=120fps, LensType=Zoom
+ DB: SS4
+27/05/2025 11:50:16: Data uploaded successfully. Drone Information:
+ID: DR003
+Model: AeroScout
+Year: 2024
+Price: 1200
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=6000mAh, ChargeTime=2.5h
+Cameras:
+  Camera 1: Resolution=5.2K, FrameRate=30fps, LensType=Cine
+ DB: SS4
+27/05/2025 11:50:16: Data uploaded successfully. Drone Information:
+ID: DR004
+Model: ThunderBird
+Year: 2021
+Price: 849.75
+Batteries:
+  Battery 1: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+  Battery 2: Type=Li-ion, Capacity=4000mAh, ChargeTime=1.8h
+Cameras:
+  Camera 1: Resolution=2.7K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=1080p, FrameRate=120fps, LensType=Tele
+ DB: SS4
+27/05/2025 11:50:16: Data uploaded successfully. Drone Information:
+ID: DR005
+Model: StormhelooloFly
+Year: 2023
+Price: 1099.99
+Batteries:
+  Battery 1: Type=Li-Po, Capacity=5200mAh, ChargeTime=2.2h
+Cameras:
+  Camera 1: Resolution=4K, FrameRate=60fps, LensType=Wide
+  Camera 2: Resolution=4K, FrameRate=30fps, LensType=Zoom
+ DB: SS4
